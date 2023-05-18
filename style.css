@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.abnb {
+    width: 150px;
+    padding: 20px;
+}
+
+.bnbb {
+    width: 100%;
+    box-shadow: 0 1px;
+    height: 70px;
+}
+
+.pgi {
+    margin: 40px;
+    padding: 20px;
+    width: 450px;
+    margin-bottom: 2px;
+}
+
+.oe {
+    font-weight: 800;
+    font-size: 35px;
+    margin: 40px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.join {
+    margin: 40px;
+    margin-top: 10px;
+    max-width: 349px;
+}
+
+.card {
+    margin-left: 40px;
+}
+
+.katie {
+    border-radius: 10px;
+    width: 250px;
+}
+
+.strln {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.rdstr {
+    width: 2ch;
+    height: 2ch;
+}
+
+.grey {
+    color: grey;
+}
+
+.nord {    
+    margin-left: 5px;
+}
+
+.doh {
+    font-weight: 700;
+}
