@@ -1,19 +1,7 @@
-# co64348a4ac790c7658a47884
+# Airbnb Webpage Clone Snippet Prac
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
-
-## Development
-
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
-
-```
-$ yarn watch # npm run watch
-```
+## About the Project
+A simple snippet showing how a webpage on airbnb's website may look like. This is just created via Scrimba for the purpose of practice only.
 
 ## About Scrimba
 
